@@ -1,4 +1,4 @@
-package jp.co.vsn.training.java.base;
+package java.base;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
